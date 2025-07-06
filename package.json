@@ -40,8 +40,7 @@
   },
   "devDependencies": {
     "@types/react-router-dom": "^5.3.3",
-    "ajv": "^7.2.4",
-    "gh-pages": "^6.3.0"
+    "ajv": "^7.2.4"
   },
   "overrides": {
     "svgo": {
